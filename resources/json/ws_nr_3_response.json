@@ -147,7 +147,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "119"
+                                "slope": "119", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "71.7", 
@@ -283,7 +284,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "120"
+                                "slope": "120", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "66.5", 
@@ -419,7 +421,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "112"
+                                "slope": "112", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -597,7 +600,8 @@
                                     ]
                                 }, 
                                 "name": "Hvítir", 
-                                "slope": "141"
+                                "slope": "141", 
+                                "teeColorId": "1"
                             }, 
                             {
                                 "cr": "69.3", 
@@ -733,7 +737,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "133"
+                                "slope": "133", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "73.2", 
@@ -869,7 +874,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir kvenna", 
-                                "slope": "133"
+                                "slope": "133", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "70.0", 
@@ -1005,7 +1011,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "126"
+                                "slope": "126", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "67.5", 
@@ -1141,7 +1148,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir karla", 
-                                "slope": "125"
+                                "slope": "125", 
+                                "teeColorId": "5"
                             }, 
                             {
                                 "cr": "65.4", 
@@ -1277,7 +1285,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "113"
+                                "slope": "113", 
+                                "teeColorId": "6"
                             }, 
                             {
                                 "cr": "59.6", 
@@ -1413,7 +1422,8 @@
                                     ]
                                 }, 
                                 "name": "Gull kvenna", 
-                                "slope": "97"
+                                "slope": "97", 
+                                "teeColorId": "7"
                             }, 
                             {
                                 "cr": "57.5", 
@@ -1549,7 +1559,8 @@
                                     ]
                                 }, 
                                 "name": "Gull karla", 
-                                "slope": "97"
+                                "slope": "97", 
+                                "teeColorId": "8"
                             }
                         ]
                     }
@@ -1718,7 +1729,8 @@
                                     ]
                                 }, 
                                 "name": "Hvítir", 
-                                "slope": "132"
+                                "slope": "132", 
+                                "teeColorId": "1"
                             }, 
                             {
                                 "cr": "69.2", 
@@ -1854,7 +1866,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "133"
+                                "slope": "133", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "73.1", 
@@ -1990,7 +2003,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir kvenna", 
-                                "slope": "131"
+                                "slope": "131", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "69.1", 
@@ -2126,7 +2140,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "130"
+                                "slope": "130", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "66.7", 
@@ -2262,7 +2277,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir karla", 
-                                "slope": "133"
+                                "slope": "133", 
+                                "teeColorId": "5"
                             }, 
                             {
                                 "cr": "64.9", 
@@ -2398,7 +2414,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "113"
+                                "slope": "113", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -2567,7 +2584,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "110"
+                                "slope": "110", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "65.0", 
@@ -2703,7 +2721,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "110"
+                                "slope": "110", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "62.0", 
@@ -2839,7 +2858,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "104"
+                                "slope": "104", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -3005,7 +3025,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "114"
+                                "slope": "114", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "67.5", 
@@ -3141,7 +3162,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "110"
+                                "slope": "110", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "64.5", 
@@ -3277,7 +3299,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "105"
+                                "slope": "105", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -3446,7 +3469,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "115"
+                                "slope": "115", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "67.9", 
@@ -3582,7 +3606,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "119"
+                                "slope": "119", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "63.7", 
@@ -3718,7 +3743,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "104"
+                                "slope": "104", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -3887,7 +3913,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "120"
+                                "slope": "120", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "67.6", 
@@ -4023,7 +4050,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "115"
+                                "slope": "115", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "63.1", 
@@ -4159,7 +4187,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "103"
+                                "slope": "103", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -4328,7 +4357,8 @@
                                     ]
                                 }, 
                                 "name": "51", 
-                                "slope": "120"
+                                "slope": "120", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "70.7", 
@@ -4464,7 +4494,8 @@
                                     ]
                                 }, 
                                 "name": "48 kvk", 
-                                "slope": "120"
+                                "slope": "120", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "69.0", 
@@ -4600,7 +4631,8 @@
                                     ]
                                 }, 
                                 "name": "45 kvk", 
-                                "slope": "122"
+                                "slope": "122", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "66.0", 
@@ -4736,7 +4768,8 @@
                                     ]
                                 }, 
                                 "name": "48 kk", 
-                                "slope": "115"
+                                "slope": "115", 
+                                "teeColorId": "5"
                             }, 
                             {
                                 "cr": "64.2", 
@@ -4872,7 +4905,8 @@
                                     ]
                                 }, 
                                 "name": "45 kk", 
-                                "slope": "111"
+                                "slope": "111", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -5041,7 +5075,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "122"
+                                "slope": "122", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "66.6", 
@@ -5177,7 +5212,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "110"
+                                "slope": "110", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "62.6", 
@@ -5313,7 +5349,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "108"
+                                "slope": "108", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -5482,7 +5519,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "110"
+                                "slope": "110", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "65.7", 
@@ -5618,7 +5656,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "102"
+                                "slope": "102", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "61.6", 
@@ -5754,7 +5793,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "99"
+                                "slope": "99", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -5923,7 +5963,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "126"
+                                "slope": "126", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "67.4", 
@@ -6059,7 +6100,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "118"
+                                "slope": "118", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "63.0", 
@@ -6195,7 +6237,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "104"
+                                "slope": "104", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -6361,7 +6404,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "121"
+                                "slope": "121", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "69.4", 
@@ -6497,7 +6541,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "125"
+                                "slope": "125", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "65.8", 
@@ -6633,7 +6678,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "111"
+                                "slope": "111", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -6802,7 +6848,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "123"
+                                "slope": "123", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "70.6", 
@@ -6938,7 +6985,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir kvenna", 
-                                "slope": "119"
+                                "slope": "119", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "68.2", 
@@ -7074,7 +7122,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "114"
+                                "slope": "114", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "63.8", 
@@ -7210,7 +7259,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "115"
+                                "slope": "115", 
+                                "teeColorId": "6"
                             }, 
                             {
                                 "cr": "56.5", 
@@ -7346,7 +7396,8 @@
                                     ]
                                 }, 
                                 "name": "Gull kvenna", 
-                                "slope": "86"
+                                "slope": "86", 
+                                "teeColorId": "7"
                             }, 
                             {
                                 "cr": "53.2", 
@@ -7482,7 +7533,8 @@
                                     ]
                                 }, 
                                 "name": "Gull karla", 
-                                "slope": "95"
+                                "slope": "95", 
+                                "teeColorId": "8"
                             }
                         ]
                     }
@@ -7648,7 +7700,8 @@
                                     ]
                                 }, 
                                 "name": "54", 
-                                "slope": "118"
+                                "slope": "118", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "72.0", 
@@ -7784,7 +7837,8 @@
                                     ]
                                 }, 
                                 "name": "50 kvk", 
-                                "slope": "120"
+                                "slope": "120", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "69.6", 
@@ -7920,7 +7974,8 @@
                                     ]
                                 }, 
                                 "name": "45 kvk", 
-                                "slope": "110"
+                                "slope": "110", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "65.8", 
@@ -8056,7 +8111,8 @@
                                     ]
                                 }, 
                                 "name": "50 kk", 
-                                "slope": "118"
+                                "slope": "118", 
+                                "teeColorId": "5"
                             }, 
                             {
                                 "cr": "64.6", 
@@ -8192,7 +8248,8 @@
                                     ]
                                 }, 
                                 "name": "45 kk", 
-                                "slope": "107"
+                                "slope": "107", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -8361,7 +8418,8 @@
                                     ]
                                 }, 
                                 "name": "Hvítir", 
-                                "slope": "122"
+                                "slope": "122", 
+                                "teeColorId": "1"
                             }, 
                             {
                                 "cr": "69.0", 
@@ -8497,7 +8555,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "123"
+                                "slope": "123", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "75.4", 
@@ -8633,7 +8692,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir kvenna", 
-                                "slope": "136"
+                                "slope": "136", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "69.6", 
@@ -8769,7 +8829,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "118"
+                                "slope": "118", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "69.0", 
@@ -8905,7 +8966,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir karla", 
-                                "slope": "123"
+                                "slope": "123", 
+                                "teeColorId": "5"
                             }, 
                             {
                                 "cr": "64.6", 
@@ -9041,7 +9103,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "103"
+                                "slope": "103", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -9207,7 +9270,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "113"
+                                "slope": "113", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "62.0", 
@@ -9343,7 +9407,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "113"
+                                "slope": "113", 
+                                "teeColorId": "4"
                             }
                         ]
                     }
@@ -9512,7 +9577,8 @@
                                     ]
                                 }, 
                                 "name": "Hvítir", 
-                                "slope": "115"
+                                "slope": "115", 
+                                "teeColorId": "1"
                             }, 
                             {
                                 "cr": "67.7", 
@@ -9648,7 +9714,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "114"
+                                "slope": "114", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "70.7", 
@@ -9784,7 +9851,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir kvenna", 
-                                "slope": "119"
+                                "slope": "119", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "68.8", 
@@ -9920,7 +9988,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "114"
+                                "slope": "114", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "65.4", 
@@ -10056,7 +10125,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir karla", 
-                                "slope": "108"
+                                "slope": "108", 
+                                "teeColorId": "5"
                             }, 
                             {
                                 "cr": "64.1", 
@@ -10192,7 +10262,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "102"
+                                "slope": "102", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -10361,7 +10432,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "112"
+                                "slope": "112", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "67.6", 
@@ -10497,7 +10569,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "120"
+                                "slope": "120", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "64.0", 
@@ -10633,7 +10706,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "103"
+                                "slope": "103", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -10802,7 +10876,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "121"
+                                "slope": "121", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "67.2", 
@@ -10938,7 +11013,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "116"
+                                "slope": "116", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "63.8", 
@@ -11074,7 +11150,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "108"
+                                "slope": "108", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -11240,7 +11317,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "113"
+                                "slope": "113", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "67.4", 
@@ -11376,7 +11454,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "114"
+                                "slope": "114", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "63.0", 
@@ -11512,7 +11591,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "102"
+                                "slope": "102", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -11681,7 +11761,8 @@
                                     ]
                                 }, 
                                 "name": "Hvítir", 
-                                "slope": "123"
+                                "slope": "123", 
+                                "teeColorId": "1"
                             }, 
                             {
                                 "cr": "69.7", 
@@ -11817,7 +11898,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "117"
+                                "slope": "117", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "73.8", 
@@ -11953,7 +12035,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir kvenna", 
-                                "slope": "127"
+                                "slope": "127", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "71.0", 
@@ -12089,7 +12172,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "119"
+                                "slope": "119", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "68.4", 
@@ -12225,7 +12309,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir karla", 
-                                "slope": "118"
+                                "slope": "118", 
+                                "teeColorId": "5"
                             }, 
                             {
                                 "cr": "65.0", 
@@ -12361,7 +12446,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "105"
+                                "slope": "105", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -12530,7 +12616,8 @@
                                     ]
                                 }, 
                                 "name": "Hvítir", 
-                                "slope": "137"
+                                "slope": "137", 
+                                "teeColorId": "1"
                             }, 
                             {
                                 "cr": "70.1", 
@@ -12666,7 +12753,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "128"
+                                "slope": "128", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "74.1", 
@@ -12802,7 +12890,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir kvenna", 
-                                "slope": "129"
+                                "slope": "129", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "71.4", 
@@ -12938,7 +13027,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "124"
+                                "slope": "124", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "68.5", 
@@ -13074,7 +13164,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir karla", 
-                                "slope": "124"
+                                "slope": "124", 
+                                "teeColorId": "5"
                             }, 
                             {
                                 "cr": "66.3", 
@@ -13210,7 +13301,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "113"
+                                "slope": "113", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -13379,7 +13471,8 @@
                                     ]
                                 }, 
                                 "name": "Hvítir", 
-                                "slope": "136"
+                                "slope": "136", 
+                                "teeColorId": "1"
                             }, 
                             {
                                 "cr": "70.1", 
@@ -13515,7 +13608,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "130"
+                                "slope": "130", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "74.6", 
@@ -13651,7 +13745,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir kvenna", 
-                                "slope": "140"
+                                "slope": "140", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "72.3", 
@@ -13787,7 +13882,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "131"
+                                "slope": "131", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "68.9", 
@@ -13923,7 +14019,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir karla", 
-                                "slope": "123"
+                                "slope": "123", 
+                                "teeColorId": "5"
                             }, 
                             {
                                 "cr": "67.3", 
@@ -14059,7 +14156,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "122"
+                                "slope": "122", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -14226,7 +14324,8 @@
                                         ]
                                     }, 
                                     "name": "Hvítir", 
-                                    "slope": "116"
+                                    "slope": "116", 
+                                    "teeColorId": "1"
                                 }, 
                                 {
                                     "cr": "69.1", 
@@ -14362,7 +14461,8 @@
                                         ]
                                     }, 
                                     "name": "Gulir ", 
-                                    "slope": "117"
+                                    "slope": "117", 
+                                    "teeColorId": "2"
                                 }, 
                                 {
                                     "cr": "72.4", 
@@ -14498,7 +14598,8 @@
                                         ]
                                     }, 
                                     "name": "Bláir kvenna", 
-                                    "slope": "120"
+                                    "slope": "120", 
+                                    "teeColorId": "3"
                                 }, 
                                 {
                                     "cr": "70.5", 
@@ -14634,7 +14735,8 @@
                                         ]
                                     }, 
                                     "name": "Rauðir kvenna", 
-                                    "slope": "122"
+                                    "slope": "122", 
+                                    "teeColorId": "4"
                                 }, 
                                 {
                                     "cr": "67.6", 
@@ -14770,7 +14872,8 @@
                                         ]
                                     }, 
                                     "name": "Bláir karla", 
-                                    "slope": "113"
+                                    "slope": "113", 
+                                    "teeColorId": "5"
                                 }, 
                                 {
                                     "cr": "65.4", 
@@ -14906,7 +15009,8 @@
                                         ]
                                     }, 
                                     "name": "Rauðir karla", 
-                                    "slope": "102"
+                                    "slope": "102", 
+                                    "teeColorId": "6"
                                 }, 
                                 {
                                     "cr": "63.8", 
@@ -15042,7 +15146,8 @@
                                         ]
                                     }, 
                                     "name": "Gull kvenna", 
-                                    "slope": "102"
+                                    "slope": "102", 
+                                    "teeColorId": "7"
                                 }, 
                                 {
                                     "cr": "60.1", 
@@ -15178,7 +15283,8 @@
                                         ]
                                     }, 
                                     "name": "Gull karla", 
-                                    "slope": "99"
+                                    "slope": "99", 
+                                    "teeColorId": "8"
                                 }
                             ]
                         }
@@ -15327,7 +15433,8 @@
                                         ]
                                     }, 
                                     "name": "Gulir ", 
-                                    "slope": "107"
+                                    "slope": "107", 
+                                    "teeColorId": "2"
                                 }, 
                                 {
                                     "cr": "65.0", 
@@ -15463,7 +15570,8 @@
                                         ]
                                     }, 
                                     "name": "Rauðir kvenna", 
-                                    "slope": "110"
+                                    "slope": "110", 
+                                    "teeColorId": "4"
                                 }, 
                                 {
                                     "cr": "61.4", 
@@ -15599,7 +15707,8 @@
                                         ]
                                     }, 
                                     "name": "Rauðir karla", 
-                                    "slope": "108"
+                                    "slope": "108", 
+                                    "teeColorId": "6"
                                 }
                             ]
                         }
@@ -15769,7 +15878,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "113"
+                                "slope": "113", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "65.4", 
@@ -15905,7 +16015,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "116"
+                                "slope": "116", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "62.0", 
@@ -16041,7 +16152,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "111"
+                                "slope": "111", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -16210,7 +16322,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "122"
+                                "slope": "122", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "69.0", 
@@ -16346,7 +16459,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "120"
+                                "slope": "120", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "65.5", 
@@ -16482,7 +16596,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "114"
+                                "slope": "114", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -16651,7 +16766,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "123"
+                                "slope": "123", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "70.6", 
@@ -16787,7 +16903,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "121"
+                                "slope": "121", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "65.7", 
@@ -16923,7 +17040,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "110"
+                                "slope": "110", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -17092,7 +17210,8 @@
                                     ]
                                 }, 
                                 "name": "Hvítir", 
-                                "slope": "132"
+                                "slope": "132", 
+                                "teeColorId": "1"
                             }, 
                             {
                                 "cr": "70.5", 
@@ -17228,7 +17347,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "123"
+                                "slope": "123", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "72.6", 
@@ -17364,7 +17484,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir kvenna", 
-                                "slope": "135"
+                                "slope": "135", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "69.7", 
@@ -17500,7 +17621,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "121"
+                                "slope": "121", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "66.9", 
@@ -17636,7 +17758,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir karla", 
-                                "slope": "120"
+                                "slope": "120", 
+                                "teeColorId": "5"
                             }, 
                             {
                                 "cr": "65.2", 
@@ -17772,7 +17895,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "115"
+                                "slope": "115", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -17941,7 +18065,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "126"
+                                "slope": "126", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "71.2", 
@@ -18077,7 +18202,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "122"
+                                "slope": "122", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "65.8", 
@@ -18213,7 +18339,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "111"
+                                "slope": "111", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -18382,7 +18509,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "122"
+                                "slope": "122", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "67.6", 
@@ -18518,7 +18646,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "119"
+                                "slope": "119", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "63.8", 
@@ -18654,7 +18783,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "103"
+                                "slope": "103", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -18823,7 +18953,8 @@
                                     ]
                                 }, 
                                 "name": "58", 
-                                "slope": "121"
+                                "slope": "121", 
+                                "teeColorId": "1"
                             }, 
                             {
                                 "cr": "68.7", 
@@ -18959,7 +19090,8 @@
                                     ]
                                 }, 
                                 "name": "54", 
-                                "slope": "118"
+                                "slope": "118", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "71.6", 
@@ -19095,7 +19227,8 @@
                                     ]
                                 }, 
                                 "name": "49 kvk", 
-                                "slope": "125"
+                                "slope": "125", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "70.1", 
@@ -19231,7 +19364,8 @@
                                     ]
                                 }, 
                                 "name": "46 kvk", 
-                                "slope": "121"
+                                "slope": "121", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "65.5", 
@@ -19367,7 +19501,8 @@
                                     ]
                                 }, 
                                 "name": "49 kk", 
-                                "slope": "110"
+                                "slope": "110", 
+                                "teeColorId": "5"
                             }, 
                             {
                                 "cr": "64.2", 
@@ -19503,7 +19638,8 @@
                                     ]
                                 }, 
                                 "name": "46 kk", 
-                                "slope": "107"
+                                "slope": "107", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -19672,7 +19808,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "108"
+                                "slope": "108", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "65.0", 
@@ -19808,7 +19945,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "108"
+                                "slope": "108", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "61.6", 
@@ -19944,7 +20082,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "97"
+                                "slope": "97", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -20110,7 +20249,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "119"
+                                "slope": "119", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "70.2", 
@@ -20246,7 +20386,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "115"
+                                "slope": "115", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "63.7", 
@@ -20382,7 +20523,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "107"
+                                "slope": "107", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -20551,7 +20693,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "111"
+                                "slope": "111", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "64.6", 
@@ -20687,7 +20830,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "109"
+                                "slope": "109", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "61.4", 
@@ -20823,7 +20967,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "101"
+                                "slope": "101", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -20992,7 +21137,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "118"
+                                "slope": "118", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "68.6", 
@@ -21128,7 +21274,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "127"
+                                "slope": "127", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "63.8", 
@@ -21264,7 +21411,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "112"
+                                "slope": "112", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -21433,7 +21581,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "123"
+                                "slope": "123", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "71.8", 
@@ -21569,7 +21718,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "120"
+                                "slope": "120", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "66.8", 
@@ -21705,7 +21855,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "107"
+                                "slope": "107", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -21875,7 +22026,8 @@
                                         ]
                                     }, 
                                     "name": "Hvítir", 
-                                    "slope": "132"
+                                    "slope": "132", 
+                                    "teeColorId": "1"
                                 }, 
                                 {
                                     "cr": "70.0", 
@@ -22011,7 +22163,8 @@
                                         ]
                                     }, 
                                     "name": "Gulir ", 
-                                    "slope": "128"
+                                    "slope": "128", 
+                                    "teeColorId": "2"
                                 }, 
                                 {
                                     "cr": "73.6", 
@@ -22147,7 +22300,8 @@
                                         ]
                                     }, 
                                     "name": "Bláir kvenna", 
-                                    "slope": "128"
+                                    "slope": "128", 
+                                    "teeColorId": "3"
                                 }, 
                                 {
                                     "cr": "70.6", 
@@ -22283,7 +22437,8 @@
                                         ]
                                     }, 
                                     "name": "Rauðir kvenna", 
-                                    "slope": "121"
+                                    "slope": "121", 
+                                    "teeColorId": "4"
                                 }, 
                                 {
                                     "cr": "67.8", 
@@ -22419,7 +22574,8 @@
                                         ]
                                     }, 
                                     "name": "Bláir karla", 
-                                    "slope": "126"
+                                    "slope": "126", 
+                                    "teeColorId": "5"
                                 }, 
                                 {
                                     "cr": "65.3", 
@@ -22555,7 +22711,8 @@
                                         ]
                                     }, 
                                     "name": "Rauðir karla", 
-                                    "slope": "116"
+                                    "slope": "116", 
+                                    "teeColorId": "6"
                                 }
                             ]
                         }
@@ -22704,7 +22861,8 @@
                                         ]
                                     }, 
                                     "name": "Hvítir", 
-                                    "slope": "127"
+                                    "slope": "127", 
+                                    "teeColorId": "1"
                                 }, 
                                 {
                                     "cr": "70.6", 
@@ -22840,7 +22998,8 @@
                                         ]
                                     }, 
                                     "name": "Gulir ", 
-                                    "slope": "123"
+                                    "slope": "123", 
+                                    "teeColorId": "2"
                                 }, 
                                 {
                                     "cr": "74.1", 
@@ -22976,7 +23135,8 @@
                                         ]
                                     }, 
                                     "name": "Bláir kvenna", 
-                                    "slope": "132"
+                                    "slope": "132", 
+                                    "teeColorId": "3"
                                 }, 
                                 {
                                     "cr": "71.6", 
@@ -23112,7 +23272,8 @@
                                         ]
                                     }, 
                                     "name": "Rauðir kvenna", 
-                                    "slope": "128"
+                                    "slope": "128", 
+                                    "teeColorId": "4"
                                 }, 
                                 {
                                     "cr": "68.5", 
@@ -23248,7 +23409,8 @@
                                         ]
                                     }, 
                                     "name": "Bláir karla", 
-                                    "slope": "123"
+                                    "slope": "123", 
+                                    "teeColorId": "5"
                                 }, 
                                 {
                                     "cr": "65.8", 
@@ -23384,7 +23546,8 @@
                                         ]
                                     }, 
                                     "name": "Rauðir karla", 
-                                    "slope": "117"
+                                    "slope": "117", 
+                                    "teeColorId": "6"
                                 }
                             ]
                         }
@@ -23461,7 +23624,8 @@
                                         ]
                                     }, 
                                     "name": "Hvítir", 
-                                    "slope": "127"
+                                    "slope": "127", 
+                                    "teeColorId": "1"
                                 }, 
                                 {
                                     "cr": "70.6", 
@@ -23525,7 +23689,8 @@
                                         ]
                                     }, 
                                     "name": "Gulir ", 
-                                    "slope": "123"
+                                    "slope": "123", 
+                                    "teeColorId": "2"
                                 }, 
                                 {
                                     "cr": "74.1", 
@@ -23589,7 +23754,8 @@
                                         ]
                                     }, 
                                     "name": "Bláir kvenna", 
-                                    "slope": "132"
+                                    "slope": "132", 
+                                    "teeColorId": "3"
                                 }, 
                                 {
                                     "cr": "71.6", 
@@ -23653,7 +23819,8 @@
                                         ]
                                     }, 
                                     "name": "Rauðir kvenna", 
-                                    "slope": "128"
+                                    "slope": "128", 
+                                    "teeColorId": "4"
                                 }, 
                                 {
                                     "cr": "68.5", 
@@ -23717,7 +23884,8 @@
                                         ]
                                     }, 
                                     "name": "Bláir karla", 
-                                    "slope": "123"
+                                    "slope": "123", 
+                                    "teeColorId": "5"
                                 }, 
                                 {
                                     "cr": "65.8", 
@@ -23781,7 +23949,8 @@
                                         ]
                                     }, 
                                     "name": "Rauðir karla", 
-                                    "slope": "117"
+                                    "slope": "117", 
+                                    "teeColorId": "6"
                                 }
                             ]
                         }
@@ -23951,7 +24120,8 @@
                                     ]
                                 }, 
                                 "name": "Hvítir", 
-                                "slope": "129"
+                                "slope": "129", 
+                                "teeColorId": "1"
                             }, 
                             {
                                 "cr": "69.6", 
@@ -24087,7 +24257,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "125"
+                                "slope": "125", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "73.0", 
@@ -24223,7 +24394,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir kvenna", 
-                                "slope": "128"
+                                "slope": "128", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "69.9", 
@@ -24359,7 +24531,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "121"
+                                "slope": "121", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "67.8", 
@@ -24495,7 +24668,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir karla", 
-                                "slope": "116"
+                                "slope": "116", 
+                                "teeColorId": "5"
                             }, 
                             {
                                 "cr": "64.7", 
@@ -24631,7 +24805,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "107"
+                                "slope": "107", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -24800,7 +24975,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "126"
+                                "slope": "126", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "70.4", 
@@ -24936,7 +25112,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "123"
+                                "slope": "123", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "65.5", 
@@ -25072,7 +25249,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "113"
+                                "slope": "113", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -25238,7 +25416,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "111"
+                                "slope": "111", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "73.2", 
@@ -25374,7 +25553,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir kvenna", 
-                                "slope": "126"
+                                "slope": "126", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "70.3", 
@@ -25510,7 +25690,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "116"
+                                "slope": "116", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "65.6", 
@@ -25646,7 +25827,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "108"
+                                "slope": "108", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -25815,7 +25997,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "119"
+                                "slope": "119", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "70.6", 
@@ -25951,7 +26134,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "120"
+                                "slope": "120", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "66.4", 
@@ -26087,7 +26271,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "103"
+                                "slope": "103", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -26253,7 +26438,8 @@
                                     ]
                                 }, 
                                 "name": "Hvítir", 
-                                "slope": "132"
+                                "slope": "132", 
+                                "teeColorId": "1"
                             }, 
                             {
                                 "cr": "71.0", 
@@ -26389,7 +26575,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "132"
+                                "slope": "132", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "73.6", 
@@ -26525,7 +26712,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir kvenna", 
-                                "slope": "133"
+                                "slope": "133", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "73.0", 
@@ -26661,7 +26849,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "131"
+                                "slope": "131", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "68.6", 
@@ -26797,7 +26986,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir karla", 
-                                "slope": "124"
+                                "slope": "124", 
+                                "teeColorId": "5"
                             }, 
                             {
                                 "cr": "67.2", 
@@ -26933,7 +27123,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "121"
+                                "slope": "121", 
+                                "teeColorId": "6"
                             }, 
                             {
                                 "cr": "57.8", 
@@ -27069,7 +27260,8 @@
                                     ]
                                 }, 
                                 "name": "Gull kvenna", 
-                                "slope": "99"
+                                "slope": "99", 
+                                "teeColorId": "7"
                             }, 
                             {
                                 "cr": "55.0", 
@@ -27205,7 +27397,8 @@
                                     ]
                                 }, 
                                 "name": "Gull karla", 
-                                "slope": "91"
+                                "slope": "91", 
+                                "teeColorId": "8"
                             }
                         ]
                     }
@@ -27371,7 +27564,8 @@
                                     ]
                                 }, 
                                 "name": "Hvítir", 
-                                "slope": "125"
+                                "slope": "125", 
+                                "teeColorId": "1"
                             }, 
                             {
                                 "cr": "69.2", 
@@ -27507,7 +27701,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "118"
+                                "slope": "118", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "72.3", 
@@ -27643,7 +27838,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir kvenna", 
-                                "slope": "123"
+                                "slope": "123", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "69.1", 
@@ -27779,7 +27975,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "122"
+                                "slope": "122", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "66.9", 
@@ -27915,7 +28112,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir karla", 
-                                "slope": "113"
+                                "slope": "113", 
+                                "teeColorId": "5"
                             }, 
                             {
                                 "cr": "64.4", 
@@ -28051,7 +28249,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "106"
+                                "slope": "106", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -28220,7 +28419,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "124"
+                                "slope": "124", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "66.4", 
@@ -28356,7 +28556,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "116"
+                                "slope": "116", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "62.8", 
@@ -28492,7 +28693,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "98"
+                                "slope": "98", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -28661,7 +28863,8 @@
                                     ]
                                 }, 
                                 "name": "Hvítir", 
-                                "slope": "123"
+                                "slope": "123", 
+                                "teeColorId": "1"
                             }, 
                             {
                                 "cr": "68.2", 
@@ -28797,7 +29000,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "120"
+                                "slope": "120", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "71.8", 
@@ -28933,7 +29137,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir kvenna", 
-                                "slope": "127"
+                                "slope": "127", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "70.3", 
@@ -29069,7 +29274,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "123"
+                                "slope": "123", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "66.1", 
@@ -29205,7 +29411,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir karla", 
-                                "slope": "115"
+                                "slope": "115", 
+                                "teeColorId": "5"
                             }, 
                             {
                                 "cr": "65.1", 
@@ -29341,7 +29548,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "103"
+                                "slope": "103", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -29510,7 +29718,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "127"
+                                "slope": "127", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "70.6", 
@@ -29646,7 +29855,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "117"
+                                "slope": "117", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "65.4", 
@@ -29782,7 +29992,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "108"
+                                "slope": "108", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -29951,7 +30162,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "127"
+                                "slope": "127", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "67.2", 
@@ -30087,7 +30299,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "114"
+                                "slope": "114", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "63.4", 
@@ -30223,7 +30436,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "97"
+                                "slope": "97", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -30392,7 +30606,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir karla", 
-                                "slope": "128"
+                                "slope": "128", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "74.9", 
@@ -30528,7 +30743,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir kvenna", 
-                                "slope": "134"
+                                "slope": "134", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "69.7", 
@@ -30664,7 +30880,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "129"
+                                "slope": "129", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "65.1", 
@@ -30800,7 +31017,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "109"
+                                "slope": "109", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -30969,7 +31187,8 @@
                                     ]
                                 }, 
                                 "name": "Hvítir", 
-                                "slope": "127"
+                                "slope": "127", 
+                                "teeColorId": "1"
                             }, 
                             {
                                 "cr": "66.8", 
@@ -31105,7 +31324,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "124"
+                                "slope": "124", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "67.8", 
@@ -31241,7 +31461,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir kvenna", 
-                                "slope": "120"
+                                "slope": "120", 
+                                "teeColorId": "3"
                             }, 
                             {
                                 "cr": "66.2", 
@@ -31377,7 +31598,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "121"
+                                "slope": "121", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "63.8", 
@@ -31513,7 +31735,8 @@
                                     ]
                                 }, 
                                 "name": "Bláir karla", 
-                                "slope": "108"
+                                "slope": "108", 
+                                "teeColorId": "5"
                             }, 
                             {
                                 "cr": "62.6", 
@@ -31649,7 +31872,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "105"
+                                "slope": "105", 
+                                "teeColorId": "6"
                             }, 
                             {
                                 "cr": "59.8", 
@@ -31785,7 +32009,8 @@
                                     ]
                                 }, 
                                 "name": "Gull kvenna", 
-                                "slope": "97"
+                                "slope": "97", 
+                                "teeColorId": "7"
                             }, 
                             {
                                 "cr": "58.8", 
@@ -31921,7 +32146,8 @@
                                     ]
                                 }, 
                                 "name": "Gull karla", 
-                                "slope": "93"
+                                "slope": "93", 
+                                "teeColorId": "8"
                             }
                         ]
                     }
@@ -32089,7 +32315,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "125"
+                                "slope": "125", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "72.6", 
@@ -32225,7 +32452,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "119"
+                                "slope": "119", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "67.4", 
@@ -32361,7 +32589,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "108"
+                                "slope": "108", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -32604,7 +32833,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "111"
+                                "slope": "111", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "69.2", 
@@ -32740,7 +32970,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "113"
+                                "slope": "113", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "64.9", 
@@ -32876,7 +33107,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "103"
+                                "slope": "103", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -33042,7 +33274,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "115"
+                                "slope": "115", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "67.0", 
@@ -33178,7 +33411,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "113"
+                                "slope": "113", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "64.0", 
@@ -33314,7 +33548,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "107"
+                                "slope": "107", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -33483,7 +33718,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "118"
+                                "slope": "118", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "66.8", 
@@ -33619,7 +33855,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "114"
+                                "slope": "114", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "62.4", 
@@ -33755,7 +33992,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "101"
+                                "slope": "101", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -33921,7 +34159,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "107"
+                                "slope": "107", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "64.4", 
@@ -34057,7 +34296,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "103"
+                                "slope": "103", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "61.6", 
@@ -34193,7 +34433,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "99"
+                                "slope": "99", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -34361,7 +34602,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir", 
-                                "slope": "100"
+                                "slope": "100", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "61.6", 
@@ -34497,7 +34739,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "91"
+                                "slope": "91", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "59.8", 
@@ -34633,7 +34876,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "91"
+                                "slope": "91", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -34802,7 +35046,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "104"
+                                "slope": "104", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "65.4", 
@@ -34938,7 +35183,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "100"
+                                "slope": "100", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "61.2", 
@@ -35074,7 +35320,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "94"
+                                "slope": "94", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -35242,7 +35489,8 @@
                                     ]
                                 }, 
                                 "name": "Hvítir", 
-                                "slope": "127"
+                                "slope": "127", 
+                                "teeColorId": "1"
                             }, 
                             {
                                 "cr": "71.2", 
@@ -35378,7 +35626,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "128"
+                                "slope": "128", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "70.1", 
@@ -35514,7 +35763,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "130"
+                                "slope": "130", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "66.4", 
@@ -35650,7 +35900,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "107"
+                                "slope": "107", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -35818,7 +36069,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "121"
+                                "slope": "121", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "63.8", 
@@ -35954,7 +36206,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "103"
+                                "slope": "103", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "60.0", 
@@ -36090,7 +36343,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "95"
+                                "slope": "95", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -36275,7 +36529,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "103"
+                                "slope": "103", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "60.4", 
@@ -36411,7 +36666,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "103"
+                                "slope": "103", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "59.8", 
@@ -36547,7 +36803,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "97"
+                                "slope": "97", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -36716,7 +36973,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "110"
+                                "slope": "110", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "64.2", 
@@ -36852,7 +37110,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "109"
+                                "slope": "109", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "61.6", 
@@ -36988,7 +37247,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "95"
+                                "slope": "95", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -37157,7 +37417,8 @@
                                     ]
                                 }, 
                                 "name": "Hvítir", 
-                                "slope": "115"
+                                "slope": "115", 
+                                "teeColorId": "1"
                             }, 
                             {
                                 "cr": "65.3", 
@@ -37293,7 +37554,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "115"
+                                "slope": "115", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "65.8", 
@@ -37429,7 +37691,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "111"
+                                "slope": "111", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "62.6", 
@@ -37565,7 +37828,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "100"
+                                "slope": "100", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
@@ -37733,7 +37997,8 @@
                                     ]
                                 }, 
                                 "name": "Gulir ", 
-                                "slope": "113"
+                                "slope": "113", 
+                                "teeColorId": "2"
                             }, 
                             {
                                 "cr": "69.8", 
@@ -37869,7 +38134,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir kvenna", 
-                                "slope": "128"
+                                "slope": "128", 
+                                "teeColorId": "4"
                             }, 
                             {
                                 "cr": "65.2", 
@@ -38005,7 +38271,8 @@
                                     ]
                                 }, 
                                 "name": "Rauðir karla", 
-                                "slope": "103"
+                                "slope": "103", 
+                                "teeColorId": "6"
                             }
                         ]
                     }
