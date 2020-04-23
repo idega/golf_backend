@@ -270,6 +270,14 @@
 			<groupId>com.idega.block.egov</groupId>
 			<artifactId>is.idega.idegaweb.member</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>com.idega.block.egov</groupId>
+			<artifactId>is.idega.idegaweb.egov</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.idega.block.egov</groupId>
+			<artifactId>is.idega.webservice</artifactId>
+		</dependency>
 		
 		<!-- Solution -->
 		<dependency>
